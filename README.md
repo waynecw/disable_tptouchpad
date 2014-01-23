@@ -1,4 +1,4 @@
 disable_tptouchpad
 ==================
 
-Used to disable Thinkpad Touchpad
+Used to disable Thinkpad Touchpad on Linux
